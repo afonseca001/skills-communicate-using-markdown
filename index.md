@@ -13,3 +13,9 @@ Test cenas:
 123456
 Test user
 ```
+
+- [X] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
+- This is a test
+- 
