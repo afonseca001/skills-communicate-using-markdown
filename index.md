@@ -13,24 +13,3 @@ Test cenas:
 123456
 Test user
 ```
-
-`
-Test
-`
-
-``
-Test
-If
-I
-Type
-With
-Enters
-It
-Aligns 
-Everything 
-in 
-the
-same
-line 
-123
-``
